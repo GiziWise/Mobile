@@ -13,11 +13,9 @@ Features of this Android app:
 # Screenshots Aplication
 ![P ss](https://github.com/TamarillowBonaparte/Mobile/assets/125776654/88e8b1ff-faa6-448e-b95e-a51c1a0d9442)
 
-
-
-
-
-
 # Permissions
 The minimum Android version that can use this app is Android 5.0, with Internet Access permission requested.
 The internet access permission is made to communicate data from the cloud and process food data recommendations.
+
+# Apps
+You can download apps with this link https://drive.google.com/file/d/1LTeWA9g2LR3Q0v1neZKVrzIoXIQu2of-/view?usp=drive_link
