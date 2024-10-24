@@ -13,6 +13,10 @@ Features of this Android app:
 # Screenshots Aplication
 ![P ss](https://github.com/TamarillowBonaparte/Mobile/assets/125776654/88e8b1ff-faa6-448e-b95e-a51c1a0d9442)
 
+# Hall Of Frame Creator
+![Hall Of Frame](https://github.com/user-attachments/assets/8390dea4-a016-47e8-9189-cee6604fbbf8)
+
+
 # Permissions
 The minimum Android version that can use this app is Android 5.0, with Internet Access permission requested.
 The internet access permission is made to communicate data from the cloud and process food data recommendations.
